@@ -67,6 +67,7 @@ li {
 }
 
 .cards-container {
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -75,8 +76,18 @@ li {
 }
 
 .cards-container .info-card {
+    width: 200px;
     box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.info-cards-section .card-image{
     width: 200px;
     height: 200px;
-    background-color: red;
+    background-color: green;
 }
