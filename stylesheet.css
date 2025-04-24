@@ -23,11 +23,13 @@ button {
 /* -------------------------------------------------- */
 /* Header section */
 .section-1 {
-    background-color: #1F2937;
+    /* background-color: #1F2937; */
     margin: 0;
-    padding: 0px 48px;
+    padding: 0;
 }
 .header {
+    background-color: #1F2937;
+    padding: 0px 24px;
     margin: 0;
     color: #F9FAF8;
     display: flex;
@@ -53,12 +55,12 @@ button {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 80px;
     padding-bottom: 200px;
 }
 
 .left-section {
-    flex-basis: 400px;
+    flex-basis: 560px;
 }
 
 .main-page .left-section h1 {
@@ -76,7 +78,7 @@ button {
 .main-page .image {
     background-color: #3882F6;
     /* min-width: none; */
-    max-width: 100%;
+    max-width: 1000px;
 }
 /* -------------------------------------------------- */
 /* cards section */
