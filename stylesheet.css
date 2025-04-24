@@ -59,7 +59,7 @@ li {
 }
 
 .main-page .image {
-    background-color: yellow;
+    background-color: #3882F6;
     height: 250px;
     width: 500px;
 }
@@ -96,7 +96,7 @@ li {
 .info-cards-section .card-image{
     width: 200px;
     height: 200px;
-    background-color: green;
+    background-color: #3882F6;
 }
 
 /* -------------------------------------------------- */
@@ -124,12 +124,17 @@ li {
 
 /* -------------------------------------------------- */
 /* contact section */
+.section-4 {
+    display: flex;
+    justify-content: center;
+}
 
 .contact-container {
+    padding: 20px;
+    margin: 0px 60px;
     display: flex;
-    flex-direction: row wrap;
+    background-color: #3882F6;
     justify-content: center;
     align-items: center;
     gap: 48px;
-    background-color: red;
 }
