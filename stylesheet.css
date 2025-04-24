@@ -55,7 +55,7 @@ button {
 /* -------------------------------------------------- */
 /* main page */
 .main-page {
-    padding: 200px 100px;
+    padding: 300px 100px;
     display: flex;
     flex-direction: column;
     flex-basis: 100%;
@@ -89,7 +89,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #F9FAF8;
+    background: linear-gradient( to bottom ,#070b10 70%, #1F2937);
     padding: 100px 0px;
 }
 
