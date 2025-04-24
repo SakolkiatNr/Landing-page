@@ -156,13 +156,18 @@ button {
 }
 
 .contact-container {
-    padding: 20px;
+    padding: 20px 80px;
     margin: 30px 60px;
     display: flex;
     background-color: #3882F6;
+    border-radius: 8px;
     justify-content: space-between;
     align-items: center;
     gap: 65px;
+}
+
+.contact-header {
+    color: #F9FAF8;
 }
 
 /* -------------------------------------------------- */
