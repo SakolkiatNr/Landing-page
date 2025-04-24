@@ -125,11 +125,11 @@ li {
 /* -------------------------------------------------- */
 /* contact section */
 
-.section-4 {
-    margin: 50px 50px;
+.contact-container {
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: row wrap;
     justify-content: center;
     align-items: center;
-    background-color: grey;
+    gap: 48px;
+    background-color: red;
 }
