@@ -33,10 +33,11 @@ button {
 }
 .header {
     background-color: #1F2937;
-    padding: 0px 24px;
+    padding: 0px 56px;
     margin: 0;
     color: #F9FAF8;
     display: flex;
+    flex: auto;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
@@ -54,27 +55,24 @@ button {
 /* -------------------------------------------------- */
 /* main page */
 .main-page {
-    padding: 60px 0px;
+    padding: 200px 100px;
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: column;
+    flex-basis: 100%;
+    max-width: 560px;
     justify-content: center;
-    align-items: center;
-    gap: 80px;
-    padding-bottom: 200px;
+    align-items: flex-start;
 }
 
-.left-section {
-    flex-basis: 560px;
-}
 
-.main-page .left-section h1 {
+.main-page .main-content h1 {
     font-size: 48px;
     font-weight: 400;
     color: #F9FAF8;
     margin: 0;
 }
 
-.main-page .left-section p {
+.main-page .main-content p {
     font-size: 18px;
     color: #E5E7EB;
 }
