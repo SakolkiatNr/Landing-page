@@ -63,6 +63,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .cards-container {
@@ -70,4 +71,12 @@ li {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    gap: 42px;
+}
+
+.cards-container .info-card {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: red;
 }
