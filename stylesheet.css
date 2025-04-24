@@ -86,7 +86,7 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #F9FAF8;
-    padding: 48px 0px;
+    padding: 100px 0px;
 }
 
 .cards-container {
@@ -120,7 +120,7 @@ button {
 /* quote section */
 .section-3 {
     margin: 0;
-    padding: 96px 0px;
+    padding: 200px 0px;
     background-color: #E5E7EB;
 }
 
