@@ -172,6 +172,11 @@ button {
 .contact-subtext {
     color: #E5E7EB;
 }
+.contact-container .button {
+    outline: solid #F9FAF8;
+    outline-width: 2px;
+    border-width: 0;
+}
 
 /* -------------------------------------------------- */
 footer {
