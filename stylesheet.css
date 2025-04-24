@@ -63,7 +63,7 @@ button {
 
 .main-page .left-section h1 {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 400;
     color: #F9FAF8;
     margin: 0;
 }
@@ -153,10 +153,11 @@ button {
 .section-4 {
     display: flex;
     justify-content: center;
+    padding: 84px 0px;
 }
 
 .contact-container {
-    padding: 20px 80px;
+    padding: 20px 150px;
     margin: 30px 60px;
     display: flex;
     background-color: #3882F6;
@@ -180,6 +181,7 @@ button {
 
 /* -------------------------------------------------- */
 footer {
+    font-size: 24px;
     margin: 0;
     padding: 16px 0px;
     text-align: center;
