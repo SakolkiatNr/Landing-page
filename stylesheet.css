@@ -40,12 +40,13 @@ img {
 /* -------------------------------------------------- */
 /* main page */
 .main-page {
-    margin: 48px 0px;
+    padding: 60px 0px;
     display: flex;
     flex-flow: row wrap;
-    justify-content: center;
-    padding-bottom: 40px;
+    justify-content: flex-start;
+    align-items: center;
     gap: 60px;
+    padding-bottom: 200px;
 }
 
 .left-section {
@@ -66,8 +67,8 @@ img {
 
 .main-page .image {
     background-color: #3882F6;
-    height: 250px;
-    width: 500px;
+    min-width: none;
+    max-width: 100%;
 }
 /* -------------------------------------------------- */
 /* cards section */
