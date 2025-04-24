@@ -65,7 +65,7 @@ li {
     justify-content: center;
     align-items: center;
     background-color: grey;
-    padding-bottom: 48px;
+    padding: 48px 0px;
 }
 
 .cards-container {
