@@ -57,6 +57,12 @@ li {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.main-page .image {
+    background-color: yellow;
+    height: 250px;
+    width: 500px;
+}
 /* -------------------------------------------------- */
 /* cards section */
 .section-2 {
