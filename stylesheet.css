@@ -24,6 +24,10 @@ button {
 /* Header section */
 .section-1 {
     /* background-color: #1F2937; */
+    background-image: url(./images/mt-pks.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     margin: 0;
     padding: 0;
 }
