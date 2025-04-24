@@ -131,10 +131,10 @@ li {
 
 .contact-container {
     padding: 20px;
-    margin: 0px 60px;
+    margin: 30px 60px;
     display: flex;
     background-color: #3882F6;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 48px;
+    gap: 65px;
 }
