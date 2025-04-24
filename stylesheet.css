@@ -13,7 +13,7 @@ li {
 .section-1 {
     background-color: #1F2937;
     margin: 0;
-    padding: 12px 100px;
+    padding: 12px 48px;
 }
 .header {
     margin: 0;
@@ -141,5 +141,13 @@ li {
 
 /* -------------------------------------------------- */
 footer {
+    margin: 0;
+    padding: 16px 0px;
     text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.section-5 p {
+    margin: 0;
 }
