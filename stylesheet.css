@@ -138,3 +138,8 @@ li {
     align-items: center;
     gap: 65px;
 }
+
+/* -------------------------------------------------- */
+footer {
+    text-align: center;
+}
