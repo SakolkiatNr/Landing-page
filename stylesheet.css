@@ -64,7 +64,8 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    background-color: grey;
+    padding-bottom: 48px;
 }
 
 .cards-container {
@@ -84,7 +85,6 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: yellow;
 }
 
 .info-cards-section .card-image{
