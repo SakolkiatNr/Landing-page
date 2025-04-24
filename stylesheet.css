@@ -12,6 +12,10 @@ img {
     border-radius: 12px;
 }
 
+button {
+    background-color: #3882F6;
+}
+
 /* -------------------------------------------------- */
 /* Header section */
 .section-1 {
@@ -68,7 +72,7 @@ img {
 .main-page .image {
     background-color: #3882F6;
     min-width: none;
-    max-width: 100%;
+    max-width: 90%;
 }
 /* -------------------------------------------------- */
 /* cards section */
