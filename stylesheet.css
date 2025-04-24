@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-    
+    font-size: 30px;
 }
 .header-links {
     display: flex;
