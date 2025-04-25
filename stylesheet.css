@@ -12,7 +12,8 @@ img {
     border-radius: 12px;
 }
 
-button {
+button,
+.button {
     background-color: #1F2937;
     color: #F9FAF8;
     font-size: 20px;
@@ -189,12 +190,15 @@ button {
     padding-bottom: 18px;
 }
 .contact-subtext {
+    font-size: 20px;
     max-width: 800px;
     color: #E5E7EB;
 }
 .contact-container .button {
     outline: solid #F9FAF8 3px;
     border-width: 0;
+    font-weight: 550;
+    text-decoration: none;
 }
 
 /* -------------------------------------------------- */
@@ -204,9 +208,11 @@ footer {
     padding: 16px 0px;
     text-align: center;
     background-color: #070b10;
-    color: #F9FAF8;
+    color: #8c8c8c;
 }
 
-.section-5 p {
+.section-5 a {
     margin: 0;
+    text-decoration: none;
+    color: #8c8c8c;
 }
