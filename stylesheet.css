@@ -165,10 +165,11 @@ button {
 /* -------------------------------------------------- */
 /* contact section */
 .section-4 {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     padding: 84px 0px;
     background: linear-gradient( to bottom ,#1F2937 5%, #070b10);
+    display: flex;
+    justify-content: center;
 }
 
 .contact-container {
@@ -178,7 +179,7 @@ button {
     background: linear-gradient( to bottom, #323a46 40%, #0b1018);
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     gap: 18px;
 }
@@ -187,6 +188,7 @@ button {
     color: #F9FAF8;
 }
 .contact-subtext {
+    max-width: 800px;
     color: #E5E7EB;
 }
 .contact-container .button {
