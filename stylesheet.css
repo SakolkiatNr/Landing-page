@@ -192,8 +192,7 @@ button {
     color: #E5E7EB;
 }
 .contact-container .button {
-    outline: solid #F9FAF8;
-    outline-width: 2px;
+    outline: solid #F9FAF8 3px;
     border-width: 0;
 }
 
