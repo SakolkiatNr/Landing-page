@@ -176,7 +176,7 @@ button {
     margin: 30px 60px;
     display: flex;
     background: linear-gradient( to bottom, #323a46 40%, #0b1018);
-    border-radius: 8px;
+    border-radius: 22px;
     justify-content: space-between;
     align-items: center;
     gap: 65px;
