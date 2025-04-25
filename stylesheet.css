@@ -115,6 +115,14 @@ button {
     outline: solid 2px #1F2937;
 }
 
+.info-card p,
+.info-card h1 {
+    padding: 12px 0px;
+    margin: 0;
+    text-align: left;
+    max-width: 420px;
+}
+
 /* -------------------------------------------------- */
 /* quote section */
 .section-3 {
